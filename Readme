@@ -1,0 +1,3 @@
+ brew services start mongodb/brew/mongodb-community
+ mongosh
+ show dbs
